@@ -26,10 +26,10 @@ NLI	B
 achieving	O
 the	O
 current	O
-state	B
-of	I
-the	I
-art	I
+state	O
+of	O
+the	O
+art	O
 .	O
 
 However	O
@@ -101,13 +101,13 @@ for	O
 NLI	B
 ,	O
 achieving	O
-state	B
--	I
-of	I
--	I
-the	I
--	I
-art	I
+state	O
+-	O
+of	O
+-	O
+the	O
+-	O
+art	O
 results	O
 on	O
 several	O
