@@ -22,8 +22,8 @@ applications	I
 	O
 Computational	B
 work	I
-on	I
-metaphor	I
+on	O
+metaphor	B
 has	O
 traditionally	O
 evolved	O
@@ -170,8 +170,8 @@ patterns	I
 of	O
 metaphorical	B
 association	I
-from	B
-text	I
+from	O
+text	O
 .	O
 	O
 In	O
@@ -190,21 +190,21 @@ we	O
 applied	O
 them	O
 to	O
-data	B
-in	I
-three	I
-languages	I
+data	O
+in	O
+three	O
+languages	O
 from	O
 different	B
 language	I
 groups	I
 —	O
-English	B
+English	O
 ,	O
-Spanish	B
+Spanish	O
 ,	O
 and	O
-Russian	B
+Russian	O
 —	O
 achieving	O
 state	O

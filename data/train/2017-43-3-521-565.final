@@ -8,7 +8,7 @@ correcting	B
 errors	I
 made	O
 by	O
-English	B
+English	O
 as	O
 a	O
 Second	B
@@ -286,10 +286,10 @@ speakers	B
 of	O
 the	O
 same	O
-native	B
-language	I
+native	O
+language	O
 ,	O
-languages	B
+languages	O
 that	O
 are	O
 closely	O
@@ -297,6 +297,6 @@ related	O
 linguistically	B
 ,	O
 and	O
-unrelated	B
-languages	I
+unrelated	O
+languages	O
 .	O

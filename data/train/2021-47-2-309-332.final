@@ -41,8 +41,8 @@ Recursively	B
 Yielding	I
 Annotation	I
 Network	I
-for	I
-SQL	I
+for	O
+SQL	O
 )	O
 to	O
 solve	O
@@ -181,5 +181,4 @@ code	I
 is	O
 available	O
 at	O
-https://github.com/kakaoenterprise/RYANSQL	O
 .	O

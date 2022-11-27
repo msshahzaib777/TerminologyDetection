@@ -74,9 +74,9 @@ evaluation	I
 metrics	I
 regarding	O
 correlation	B
-with	I
-human	I
-judgments	I
+with	O
+human	O
+judgments	O
 both	O
 at	O
 the	O

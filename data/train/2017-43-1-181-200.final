@@ -8,9 +8,9 @@ micro	B
 -	I
 blogs	I
 to	O
-characterize	B
-the	I
-topic	I
+characterize	O
+the	O
+topic	B
 of	O
 a	O
 message	O
@@ -61,8 +61,8 @@ way	O
 by	O
 users	O
 in	O
-multiple	B
-languages	I
+multiple	O
+languages	O
 ,	O
 the	O
 same	O
@@ -157,9 +157,9 @@ hashtags	B
 has	O
 been	O
 to	O
-analyze	B
-their	I
-context	I
+analyze	O
+their	O
+context	O
 ,	O
 but	O
 ,	O
@@ -173,10 +173,10 @@ out	O
 hashtags	B
 can	O
 have	O
-multiple	B
-and	I
-variable	I
-meanings	I
+multiple	O
+and	O
+variable	O
+meanings	O
 .	O
 	O
 In	O
@@ -199,9 +199,9 @@ semantically	B
 related	O
 hashtags	B
 have	O
-similar	B
-and	I
-synchronous	I
+similar	O
+and	O
+synchronous	B
 usage	I
 patterns	I
 .	O

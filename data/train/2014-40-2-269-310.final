@@ -202,10 +202,10 @@ the O
 sentiment B
 polarity I
 of O
-texts B
+texts O
 , O
 and O
-predicting B
+predicting O
 the O
 ratings B
 that O
