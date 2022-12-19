@@ -1,4 +1,4 @@
-name: Terminology
+name: TermRNN
 channels:
   - conda-forge
 dependencies:
@@ -185,4 +185,4 @@ dependencies:
       - werkzeug==2.2.2
       - widgetsnbextension==4.0.4
       - wrapt==1.14.1
-prefix: /home/user/miniforge3/envs/Terminology
+prefix: /home/user/miniforge3/envs/TermRNN
