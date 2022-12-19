@@ -1,16 +1,20 @@
 nltk
 pandas 
 numpy 
-#sklearn 
 scikit-learn
 matplotlib
 seaborn 
 torch
 torchvision
 
-#import copy
-#from unidecode import unidecode
-
 Unidecode
 
 #from IPython.core.interactiveshell import InteractiveShell
+
+pydot
+
+keras
+gensim
+tensorflow
+
+ipywidgets
